@@ -19,3 +19,4 @@ public class LC0083_RemoveDuplicatesFromSortedLists {
         return head;
     }
 }
+//approach: one pointer, just compare now value, to the next value and if its the same then skip the next value and move on to the next and in case its not the same, just move like normal
